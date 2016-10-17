@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="meals">
+        <item>@drawable/food1</item>
+        <item>@drawable/drink1</item>
+        <item>@drawable/food7</item>
+    </array>
+
+</resources>
